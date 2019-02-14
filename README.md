@@ -1,0 +1,1 @@
+Generate story for trip
